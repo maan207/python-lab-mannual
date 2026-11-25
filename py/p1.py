@@ -1,0 +1,6 @@
+print("\n Program :- MSc CS & CL")
+print("\n Semester-1")
+print("\n Name : Mansi Rathod")
+print("\n Enrollment : 92600565012")
+print("\n Practical-1")
+print("\n Hello World")
